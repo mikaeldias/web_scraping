@@ -1,0 +1,13 @@
+# criar um navegador
+
+# importar/vizualizar a base de dados de produtos a pesquisar
+
+# para cada item da base de dados, para cada produtos
+    procurar o produto no google shopping
+        # verificar se algum dos produtos do google shooping esta dedntro da minha faixa de preço
+    procurar o produto no buscape
+        verificar se açgum dos produtos do buscapé esta dentro da minha faixa de preço
+
+salvar a oferta boas em um DF
+exportar para excel,
+enviar um email com resultado da tabela
