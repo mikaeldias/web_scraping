@@ -1,2 +1,2 @@
 # web_scraping
- Buscando informações de valores, em sites com selenium
+Web Scraping para busca de itens desejados. O resultado da busca é enviado ao e-mail com o nome do produto, preço e link para compra.
